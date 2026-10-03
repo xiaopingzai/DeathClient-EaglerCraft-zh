@@ -46,25 +46,7 @@ EaglerX 1.8.8 网页版 Minecraft 作弊客户端的中文汉化版本。
 
 ---
 
-## 📂 项目结构
 
-```
-deathclient-zh/
-├── client/
-│   └── versions/
-│       └── 1.8/
-│           └── 1.4.3/
-│               ├── js/
-│               │   ├── classes.js       # 游戏主要代码（已汉化）
-│               │   ├── assets.epk        # 资源包
-│               │   ├── lang.tmp.epk    # 语言包
-│               │   └── index.html       # 入口HTML
-│               └── wasm/
-│                   ├── assets.epw       # WASM资源
-│                   └── bootstrap.js
-├── index.html          # 主页
-├── README.md
-└── LICENSE
 ```
 
 ---
